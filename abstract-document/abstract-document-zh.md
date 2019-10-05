@@ -12,7 +12,7 @@
 
 
 
-![alt text](./etc/abstract-document.png"Abstract Document Traits and Domain")
+![alt text](./etc/abstract-document.png "Abstract Document Traits and Domain")
 
 
 
