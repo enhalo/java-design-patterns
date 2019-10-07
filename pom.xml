@@ -173,6 +173,7 @@
 	    <module>typeobjectpattern</module>
         <module>bytecode</module>
         <module>data-locality</module>
+        <module>juc</module>
     </modules>
 
     <repositories>
